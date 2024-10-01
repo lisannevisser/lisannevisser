@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lisanne
 - 👀 I’m a product designer
-- 🌱 I sometimes use Github for my work, I’m slowly learning how to work with it 🙌
-- 💞️ I’m looking to collaborate on frontend projects with [@stubbi](https://github.com/stubbi)
+- 🌱 I sometimes use Github for my work 🙌
 - 📫 How to reach me: Visit my portfolio at https://lisanne.design or drop me an email at [mail@lisannevisser.com](mailto:mail@lisannevisser.com).
 
 <!---
